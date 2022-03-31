@@ -1,0 +1,9 @@
+{
+    "titleandurl" :{
+    "hometitle" :"Cross Browser Testing, Selenium Testing, Mobile Testing | Sauce Labs",
+    "homeurl" :"https://saucelabs.com/"},
+    
+    "array": {
+        "homepage":["Solutios","Platform","Pricing","Resources","Company","Contact"]
+    
+}}
